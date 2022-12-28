@@ -1,10 +1,9 @@
 <h1 align="center">Hello there 👋, I'm Ra'ed Khwayreh</h1>
-###
+<br>
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
 As a computer engineering student at An Najah National University, I have developed a strong foundation in programing. I am driven by a passion for using technology to create creative solutions to real-world problems, and I am constantly trying to seek opportunities to learn and grow as a professional. 💥
-
-
+<br>
 Interested in mobile app development 📱💗
 
 <h4 align="left">Connect with me:</h4>
