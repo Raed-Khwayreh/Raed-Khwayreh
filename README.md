@@ -2,7 +2,8 @@
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
 <h3 align="center">As a computer engineering student at An Najah National University, I have developed a strong foundation in programing. I am driven by a passion for using technology to create creative solutions to real-world problems, and I am constantly trying to seek opportunities to learn and grow as a professional. 💥</h3>
-
+<br>
+<h3 align="center">Interested in mobile app development 📱💗</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/raed-khwayreh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raed-khwayreh" height="30" width="40" /></a>
