@@ -1,9 +1,7 @@
 <h1 align="center">Hello there 👋, I'm Ra'ed Khwayreh</h1>
 <br>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" />
-As a computer engineering student at An Najah National University, I have developed a strong foundation in programing. I am driven by a passion for using technology to create creative solutions to real-world problems, and I am constantly trying to seek opportunities to learn and grow as a professional. 💥
-<br>
-Interested in mobile app development 📱💗
+Front-End Developer with experience in React.js, React Native, and Flutter. Skilled in building and deploying web and mobile applications, focusing on creating responsive and user-friendly interfaces. Strong background in JavaScript. Experienced in working in collaborative environments and continuously improving technical skills to contribute to innovative solutions. 💥
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
